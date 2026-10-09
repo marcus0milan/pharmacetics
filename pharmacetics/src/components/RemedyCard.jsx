@@ -1,4 +1,4 @@
-function Remedy({ remedy }) {
+function RemedyCard({ remedy }) {
     function onRequestClick() {
         alert(`Request for ${remedy.name} has been sent!`);
     }
