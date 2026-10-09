@@ -16,3 +16,5 @@ function Remedy({ remedy }) {
         </div>
     </div>
 }
+
+export default RemedyCard
