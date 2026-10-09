@@ -15,7 +15,7 @@ function App() {
         image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Ginger_root.jpg/800px-Ginger_root.jpg'
       }} />
     </>
-  )
+  );
 }
 
 export default App
